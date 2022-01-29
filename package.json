@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "cheerio": "^0.22.0",
-    "promise": "^7.1.1",
+    "promise": "^8.1.0",
     "request": "^2.79.0"
   }
 }
